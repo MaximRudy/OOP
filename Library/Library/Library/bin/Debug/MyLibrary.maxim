@@ -1,0 +1,135 @@
+{
+  "$id": "1",
+  "$type": "System.Collections.Generic.List`1[Library.IBaseObject]",
+  "$values": {
+    {
+      "$id": "2",
+      "$type": "Library.Book",
+      "Id": "1",
+      "Name": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "PageCount": "450",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "3",
+      "$type": "Library.Book",
+      "Id": "2",
+      "Name": "Harry Potter",
+      "Author": "J. K. Rowling",
+      "PageCount": "320",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "4",
+      "$type": "Library.Book",
+      "Id": "3",
+      "Name": "Moby Dick",
+      "Author": "Herman Melville",
+      "PageCount": "500",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "5",
+      "$type": "Library.Director",
+      "Salary": "3000",
+      "Name": "Andrey",
+      "Surname": "Pupkin",
+      "Patronymic": "Igorevich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "6",
+      "$type": "Library.Employee",
+      "Salary": "500",
+      "Name": "Maxim",
+      "Surname": "Rudy",
+      "Patronymic": "Ivanovich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "7",
+      "$type": "Library.Employee",
+      "Salary": "1000",
+      "Name": "Roman",
+      "Surname": "Zverev",
+      "Patronymic": "Andreevich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "8",
+      "$type": "Library.Magazine",
+      "Id": "1",
+      "Name": "1",
+      "Publisher": "1",
+      "MagazineType": "Sport"
+    },
+    {
+      "$id": "9",
+      "$type": "Library.Assortment",
+      "Name": "First bookcase",
+      "Books": {
+        "$id": "10",
+        "$type": "System.Collections.Generic.List`1[Library.Book]",
+        "$values": {
+          {
+            "$ref": "2"
+          },
+          {
+            "$ref": "3"
+          },
+          {
+            "$ref": "4"
+          }
+        }
+      },
+      "Magazines": {
+        "$id": "11",
+        "$type": "System.Collections.Generic.List`1[Library.Magazine]",
+        "$values": {
+          {
+            "$ref": "8"
+          }
+        }
+      }
+    },
+    {
+      "$id": "12",
+      "$type": "Library.Visitor",
+      "CardNumber": "1",
+      "Name": "Anton",
+      "Surname": "Mitrifanov",
+      "Patronymic": "Antonovich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "13",
+      "$type": "Library.Library",
+      "Name": "My Library",
+      "Employees": {
+        "$id": "14",
+        "$type": "System.Collections.Generic.List`1[Library.Employee]",
+        "$values": {
+          {
+            "$ref": "6"
+          },
+          {
+            "$ref": "7"
+          }
+        }
+      },
+      "Visitors": {
+        "$id": "15",
+        "$type": "System.Collections.Generic.List`1[Library.Visitor]",
+        "$values": {
+          {
+            "$ref": "12"
+          }
+        }
+      },
+      "Assortment": {
+        "$ref": "9"
+      }
+    }
+  }
+}

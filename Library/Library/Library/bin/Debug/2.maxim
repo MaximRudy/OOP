@@ -1,0 +1,24 @@
+{
+  "$id": "1",
+  "$type": "System.Collections.Generic.List`1[Library.IBaseObject]",
+  "$values": {
+    {
+      "$id": "2",
+      "$type": "Library.Book",
+      "Id": "1",
+      "Name": "1",
+      "Author": "1",
+      "PageCount": "1",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "3",
+      "$type": "Library.Visitor",
+      "CardNumber": "21",
+      "Name": "2",
+      "Surname": "2",
+      "Patronymic": "2",
+      "Gender": "Male"
+    }
+  }
+}

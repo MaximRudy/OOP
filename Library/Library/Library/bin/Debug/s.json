@@ -1,0 +1,59 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Library.IBaseObject, Library]], mscorlib",
+  "$values": [
+    {
+      "$id": "1",
+      "$type": "Library.Book, Library",
+      "Id": 1,
+      "Name": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "PageCount": 450,
+      "BookType": 0
+    },
+    {
+      "$id": "2",
+      "$type": "Library.Book, Library",
+      "Id": 2,
+      "Name": "Harry Potter",
+      "Author": "J. K. Rowling",
+      "PageCount": 320,
+      "BookType": 0
+    },
+    {
+      "$id": "3",
+      "$type": "Library.Book, Library",
+      "Id": 3,
+      "Name": "Moby Dick",
+      "Author": "Herman Melville",
+      "PageCount": 500,
+      "BookType": 0
+    },
+    {
+      "$id": "4",
+      "$type": "Library.Director, Library",
+      "Salary": 3000.0,
+      "Name": "Andrey",
+      "Surname": "Pupkin",
+      "Patronymic": "Igorevich",
+      "Gender": 0
+    },
+    {
+      "$id": "5",
+      "$type": "Library.Employee, Library",
+      "Salary": 500.0,
+      "Name": "Maxim",
+      "Surname": "Rudy",
+      "Patronymic": "Ivanovich",
+      "Gender": 0
+    },
+    {
+      "$id": "6",
+      "$type": "Library.Employee, Library",
+      "Salary": 1000.0,
+      "Name": "Roman",
+      "Surname": "Zverev",
+      "Patronymic": "Andreevich",
+      "Gender": 0
+    }
+  ]
+}

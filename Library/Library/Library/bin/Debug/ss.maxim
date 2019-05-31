@@ -1,0 +1,60 @@
+{
+  "$id": "1",
+  "$type": "System.Collections.Generic.List`1[Library.IBaseObject]",
+  "$values": {
+    {
+      "$id": "2",
+      "$type": "Library.Book",
+      "Id": "1",
+      "Name": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "PageCount": "450",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "3",
+      "$type": "Library.Book",
+      "Id": "2",
+      "Name": "Harry Potter",
+      "Author": "J. K. Rowling",
+      "PageCount": "320",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "4",
+      "$type": "Library.Book",
+      "Id": "3",
+      "Name": "Moby Dick",
+      "Author": "Herman Melville",
+      "PageCount": "500",
+      "BookType": "Fantasy"
+    },
+    {
+      "$id": "5",
+      "$type": "Library.Director",
+      "Salary": "3000",
+      "Name": "Andrey",
+      "Surname": "Pupkin",
+      "Patronymic": "Igorevich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "6",
+      "$type": "Library.Employee",
+      "Salary": "500",
+      "Name": "Maxim",
+      "Surname": "Rudy",
+      "Patronymic": "Ivanovich",
+      "Gender": "Male"
+    },
+    {
+      "$id": "7",
+      "$type": "Library.Employee",
+      "Salary": "1000",
+      "Name": "Roman",
+      "Surname": "Zverev",
+      "Patronymic": "Andreevich",
+      "Gender": "Male"
+    }
+  }
+}

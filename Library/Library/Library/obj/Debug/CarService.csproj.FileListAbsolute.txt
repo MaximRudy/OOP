@@ -1,0 +1,13 @@
+C:\Users\micha\Desktop\Проекты\CarService\CarService\bin\Debug\CarService.exe.config
+C:\Users\micha\Desktop\Проекты\CarService\CarService\bin\Debug\CarService.exe
+C:\Users\micha\Desktop\Проекты\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.formMain.resources
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.exe
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\micha\Desktop\Проекты\CarService\CarService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\Desktop\Проекты\CarService\CarService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\micha\Desktop\Проекты\CarService\CarService\obj\Debug\CarService.csproj.CopyComplete
